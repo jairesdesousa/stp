@@ -5,7 +5,7 @@ Calculate Signed Scalar Triple Vectors from SDF files based on chiral centers.
 Extended from: https://doi.org/10.1371/journal.pone.0333635
 
 Atomic properties used:
-- Mass (using weighted average from Equation 4)
+- Mass
 - Gasteiger charge
 - Absolute Gasteiger charge
 - MMFF charge
