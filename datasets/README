@@ -1,1 +1,9 @@
+Datasets for the paper "Chiral atom-centered scalar triple products for predicting enantiomer elution order in HPLC" by Alexandre V. Costa, Abdulwahab Hussein and Joao Aires-de-Sousa
 
+The datasets are described in the paper. The test set compounds are listed first in each file.
+
+The ADH dataset is derived from the source data of the publication Xu H, Lin J, Zhang D, Mo F (2023) Retention time prediction for chromatographic enantioseparation by quantile geometry-enhanced graph neural network. Nat Commun 14:3095. https://doi.org/10.1038/s41467-023-38853-3. The processed data was used from https://github.com/jairesdesousa/chiraldlsv
+
+The CROWNPACK datasets were obtained from the publication Galvin C, Nagai K, Kaneko Y, Yuki S (2023) ChemRxiv. https://doi.org/10.26434/chemrxiv-2023-1nfxl
+
+The Lux datasets were obtained from the publication Imre A, Dombi G, Dobó M, Mhammad A, Ferencz E, Balogh B, Vincze A, Szabó ZI, Balogh GT, Rácz A, Tóth G (2025) Anal Chim Acta 1379:344733. https://doi.org/10.1016/j.aca.2025.344733
